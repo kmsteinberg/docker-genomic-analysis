@@ -217,6 +217,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends locales && \
     gsfonts \
     libbz2-1.0 \
     libcurl3 \
+    libgsl-dev \
     libicu55 \
     libjpeg-turbo8 \
     libopenblas-dev \
